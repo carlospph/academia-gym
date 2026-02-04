@@ -485,3 +485,12 @@ h2 span.black {
   color: rgb(61, 224, 252);
 
 }
+
+@media (min-width:992px){
+.container {
+  padding: 0 20px;
+  margin: 0 auto;
+  max-width:1440px;
+}
+}
+
